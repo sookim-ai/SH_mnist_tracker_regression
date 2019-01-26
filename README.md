@@ -1,5 +1,5 @@
 ## Dependency 
-PIL, matplotlib, sklearn
+python (2.7), tensorflow (>1.5), numpy, PIL, matplotlib, sklearn
 
 ## Instruction to run
 
