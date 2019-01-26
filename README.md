@@ -2,10 +2,10 @@
 #PIL, matplotlib, sklearn
 
 1. Go into folder:
-'''
+```ruby
 ./moving_mnist_dataset/
 cd ./moving_mnist_dataset/
-'''
+```
 2. Generate image and label
 python moving_mnist_catch_stop.py --dest out --filetype npz --frame_size 64 --seq_len 10 --seqs 100000 --num_sz 28 --nums_per_image 2
 3. You can visualize generated *.npz file with all_in_one_visualization_heatmap.py
