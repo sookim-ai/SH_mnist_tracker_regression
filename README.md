@@ -1,6 +1,7 @@
 ## Dependency 
 PIL, matplotlib, sklearn
 
+## Run the codes
 1. Go into folder:
 ```ruby
 cd ./moving_mnist_dataset/
