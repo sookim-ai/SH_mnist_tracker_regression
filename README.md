@@ -1,5 +1,5 @@
-#Dependency 
-#PIL, matplotlib, sklearn
+## Dependency 
+PIL, matplotlib, sklearn
 
 1. Go into folder:
 ```ruby
